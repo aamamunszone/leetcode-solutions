@@ -4,8 +4,8 @@ My journey of solving LeetCode problems consistently, starting from January 1, 2
 
 ## 📊 Progress Stats
 
-- **Total Problems Solved:** 0
-- **Current Streak:** 0 days
+- **Total Problems Solved:** 1
+- **Current Streak:** 1 days
 - **Started:** January 1, 2026
 - **Language:** JavaScript
 
@@ -31,11 +31,10 @@ My journey of solving LeetCode problems consistently, starting from January 1, 2
 
 ### January 2026 (31 days)
 
-| Day | Problem                                                           | Difficulty | Topics            | Solution                                     |
-| --- | ----------------------------------------------------------------- | ---------- | ----------------- | -------------------------------------------- |
-| 01  | [Two Sum](https://leetcode.com/problems/two-sum/)                 | Easy       | Array, Hash Table | [View](./2026/01_January/01_Two-Sum)         |
-| 02  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium     | Linked List       | [View](./2026/01_January/02_Add-Two-Numbers) |
-| ... | ...                                                               | ...        | ...               | ...                                          |
+| Day | Problem                                           | Difficulty | Topics            | Solution                             |
+| --- | ------------------------------------------------- | ---------- | ----------------- | ------------------------------------ |
+| 01  | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy       | Array, Hash Table | [View](./2026/01_January/01_Two-Sum) |
+| ... | ...                                               | ...        | ...               | ...                                  |
 
 **Monthly Stats:** 0 problems solved | Easy: 0, Medium: 0, Hard: 0
 
